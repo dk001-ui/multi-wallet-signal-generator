@@ -1,0 +1,10 @@
+{
+  "_comment": "Add Solana wallet addresses to track. Labels are optional but help identify wallets in alerts.",
+  "min_wallets_threshold": 2,
+  "time_window_minutes": 5,
+  "wallets": [
+    { "address": "WALLET_ADDRESS_1_HERE", "label": "Whale #1" },
+    { "address": "WALLET_ADDRESS_2_HERE", "label": "Whale #2" },
+    { "address": "WALLET_ADDRESS_3_HERE", "label": "Smart Money #1" }
+  ]
+}
